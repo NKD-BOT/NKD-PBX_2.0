@@ -1,6 +1,6 @@
 <h1 align="center"><b> 🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ 2.0</b></h1>
 
-<p align="center"><img src="https://telegra.ph/file/fd8a6715f04182086b49e.jpg" alt="Badhacker98"></p>
+<p align="center"><img src="https://graph.org/file/18c4002dc5ecbf1ba4b3f.jpg" alt="Badhacker98"></p>
 
 <h2 align="center">😈 Telegram Bot on Steroids!</h3>
 
