@@ -9,7 +9,7 @@
         "pyrogram",
         "Pbxbot"
     ],
-    "repository": "https://github.com/Badhacker98/PBX_2.0/",
+    "repository": "https://github.com/NKD-BOT/NKD-PBX_2.0/",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
